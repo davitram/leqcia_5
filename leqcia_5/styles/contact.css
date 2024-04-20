@@ -1,0 +1,88 @@
+header {
+    margin: 54px 52px;
+}
+
+.pirveli {
+    vertical-align: middle;
+}
+
+nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+    margin-left: 60px;
+}
+
+a {
+    font-size: 26px;
+    font-weight: 700;
+    color: #8D81FF;
+}
+.active {
+    color:#4E6FAE;
+}
+
+.gray {
+    width: 100%;
+    height: 735px;
+    background-color: #E7E7E7;
+}
+
+.sakinfo {
+    display: inline-block;
+    font-size: 36px;
+    font-weight: 700;
+    color: #4E6FAE;
+    margin-bottom: 15px;
+    margin-left: 25px;
+}
+
+.informacia {
+    display: inline-block;
+    width: 474px;
+    vertical-align: top;
+    
+}
+
+.misamarti {
+    color: #7E8898;
+    font-size: 20px;
+    margin-bottom: 15px;
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.tel {
+    display: inline-block;
+    color: #7E8898;
+    font-size: 20px;
+    vertical-align: middle;
+    margin-bottom: 15px;
+    margin-left: 25px;
+}
+
+.elfosta {
+    color: #7E8898;
+    font-size: 20px;
+    margin-left: 25px;
+}
+
+.line {
+    display: inline-block;
+    border: 2px solid #5012D5;
+    height: 45px;
+    vertical-align: top;
+    margin: 0 41px;
+}
+
+footer {
+    margin-top: 130px;
+}
+

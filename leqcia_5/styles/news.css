@@ -1,0 +1,105 @@
+body {
+    padding: 54px 52px;
+}
+
+header {
+    margin-bottom: 44px;
+}
+
+.pirveli {
+    vertical-align: middle;
+}
+
+nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+    margin-left: 60px;
+}
+
+a {
+    font-size: 26px;
+    font-weight: 700;
+    color: #8D81FF;
+}
+.active {
+    color:#4E6FAE;
+}
+.banner {
+    vertical-align: top;
+    margin-bottom: 90px;
+}
+.siaxle {
+    display: inline-block;
+    width: 150px;
+    vertical-align: top;
+    line-height: 31.2px;
+    font-size: 26px;
+    color: #4E6FAE;
+    margin-bottom: 30px;
+}
+.line2 {
+    display: inline-block;
+    border: 2px solid #5012D5;
+    height: 24px;
+    vertical-align: middle;
+    margin: 0 21px;
+}
+
+.ixilet {
+    line-height: 31.2px;
+    margin-left: 21px;
+}
+
+.line {
+    display: inline-block;
+    border: 2px solid #5012D5;
+    margin: 0 21px;
+    height: 41px;
+}
+
+.box {
+    width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    padding: 21px 23px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 52px;
+}
+
+.box2 {
+    width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    padding: 21px 23px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h2 {
+    color: #3F4145;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.text {
+    color: #7E8898;
+    font-size: 16px;
+    font-weight: 300;
+    display: inline-block;
+    width: 335px;
+}
+
+
+
+footer {
+    margin-top: 110px;
+}
